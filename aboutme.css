@@ -1,0 +1,56 @@
+nav{
+    background-color: #33333373;
+    text-align: left;
+    
+}
+
+nav a{
+    color: white;
+    text-decoration: none;
+}
+
+.active{
+    text-decoration: underline;
+
+}
+
+header{
+    background-color: #eeeeee;
+    text-align: center;
+
+}
+
+h1 a, h2{
+    color: #f25292;
+    font-weight: 100;
+    text-transform: uppercase;
+    text-align: center;
+
+
+}
+
+header p, h3{
+    color:#59569d;
+}
+
+time{
+    font-weight: 800;
+}
+
+blockquote{
+    font-style: italic;
+}
+
+.quotes p{
+    color:#59569d;
+}
+
+footer{
+    background-color: #333333;
+    color: #eeeeee;
+}
+
+footer a{
+    color: #eeeeee ;
+
+}
